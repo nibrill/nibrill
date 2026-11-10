@@ -6,6 +6,7 @@
 
 <a href="https://nibrill.github.io"><img src="https://img.shields.io/badge/Portafolio-nibrill.github.io-2a6fc4?style=for-the-badge&labelColor=12306a" alt="Portafolio"></a>
 <a href="https://coreconsulting.cl"><img src="https://img.shields.io/badge/Core%20Consulting-coreconsulting.cl-2a6fc4?style=for-the-badge&labelColor=12306a" alt="Core Consulting"></a>
+<a href="mailto:contacto@coreconsulting.cl"><img src="https://img.shields.io/badge/Correo-contacto%40coreconsulting.cl-2a6fc4?style=for-the-badge&labelColor=12306a" alt="Correo"></a>
 <a href="https://www.linkedin.com/in/nicolas-brill"><img src="https://img.shields.io/badge/LinkedIn-nicolas--brill-2a6fc4?style=for-the-badge&labelColor=12306a" alt="LinkedIn"></a>
 
 </div>
@@ -13,9 +14,11 @@
 ---
 
 ### 👨‍💻 Sobre mí
-Ingeniero Informático y dueño de **Core Consulting**. Diseño y construyo **sistemas de gestión, aplicaciones web, móviles y de escritorio** a medida, con foco en bases de datos sólidas, código mantenible y **uso experto de IA** para acelerar el desarrollo.
+Ingeniero Informático y dueño de **Core Consulting**. Diseño y construyo **sistemas de gestión, aplicaciones web, móviles y de escritorio** a medida, con foco en **APIs, automatización de procesos**, bases de datos sólidas, código mantenible y **uso experto de IA** para acelerar el desarrollo.
 
 - 🏢 Fundador de [Core Consulting](https://coreconsulting.cl)
+- ⛰️ Creador de **Summit**, app de trekking
+- 🔌 Experto en **APIs** y en **procesos automatizados**
 - 🧱 Trabajo con Python, Django, Laravel, Angular, Ionic y bases de datos relacionales
 - 📍 Chile
 - 🔓 Parte de lo que desarrollo lo dejo público para que cualquiera lo use
@@ -91,23 +94,24 @@ Uso la inteligencia artificial a diario como herramienta de ingeniería para ent
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Además:** APIs REST · modelamiento de datos · roles y permisos · seguridad web · tests automáticos · CI/CD · apps offline-first
+**Además:** APIs REST · integración de APIs · webhooks · automatización de procesos · modelamiento de datos · roles y permisos · seguridad web · tests automáticos · CI/CD · apps offline-first
 
 ### 🖼️ Un vistazo
 <table>
   <tr>
-    <td width="33%" align="center"><a href="https://github.com/nibrill/corepos-community"><img src="https://raw.githubusercontent.com/nibrill/corepos-community/main/docs/img/02-dashboard.png" alt="CorePOS Community"></a><br><b>CorePOS Community</b><br><sub>POS de escritorio</sub></td>
+    <td width="33%" align="center"><a href="https://github.com/nibrill/sistema-punto-de-venta-open-source-code"><img src="https://raw.githubusercontent.com/nibrill/sistema-punto-de-venta-open-source-code/main/docs/img/02-dashboard.png" alt="Sistema Punto de Venta Open Source Code"></a><br><b>Sistema Punto de Venta</b><br><sub>POS de escritorio</sub></td>
     <td width="33%" align="center"><a href="https://github.com/nibrill/garage360"><img src="https://raw.githubusercontent.com/nibrill/garage360/main/docs/screenshots/03-talleres.png" alt="Garage360"></a><br><b>Garage360</b><br><sub>Reservas para talleres</sub></td>
     <td width="33%" align="center"><a href="https://github.com/nibrill/vestra"><img src="https://raw.githubusercontent.com/nibrill/vestra/main/docs/screenshots/inicio.png" alt="VESTRA"></a><br><b>VESTRA</b><br><sub>Tienda online</sub></td>
   </tr>
 </table>
 
 ### 🚀 Proyectos públicos
-Sistemas que he desarrollado y dejo abiertos (MIT):
+Productos propios y sistemas open source (MIT):
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| [**CorePOS Community**](https://github.com/nibrill/corepos-community) | Punto de venta de escritorio para pymes en Chile | `Python` `PySide6` `MySQL` `FastAPI` |
+| **Summit** | App de trekking creada por mí | `App móvil` |
+| [**Sistema Punto de Venta Open Source Code**](https://github.com/nibrill/sistema-punto-de-venta-open-source-code) | Punto de venta de escritorio para pymes en Chile | `Python` `PySide6` `MySQL` `FastAPI` |
 | [**Garage360**](https://github.com/nibrill/garage360) | Reservas y gestión para talleres mecánicos, con mapa y paneles por rol | `Django` `MySQL` `Bootstrap` `Docker` |
 | [**Terreno**](https://github.com/nibrill/Terreno) · [demo](https://nibrill.github.io/Terreno/) | App offline para toma de datos en faenas mineras | `TypeScript` `PWA` |
 | [**ArenaDB**](https://github.com/nibrill/arenadb-oracle-plsql) · [demo](https://nibrill.github.io/arenadb-oracle-plsql/) | Torneos de eSports en Oracle con package y triggers | `Oracle` `PL/SQL` |
