@@ -4,8 +4,9 @@
 
 <br>
 
-[![Portafolio](https://img.shields.io/badge/PORTAFOLIO-nibrill.github.io-2a6fc4?style=for-the-badge&logo=githubpages&logoColor=white)](https://nibrill.github.io)
-[![Core Consulting](https://img.shields.io/badge/CORE%20CONSULTING-coreconsulting.cl-12306a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://coreconsulting.cl)
+<a href="https://nibrill.github.io"><img src="https://img.shields.io/badge/Portafolio-nibrill.github.io-2a6fc4?style=for-the-badge&labelColor=12306a" alt="Portafolio"></a>
+<a href="https://coreconsulting.cl"><img src="https://img.shields.io/badge/Core%20Consulting-coreconsulting.cl-2a6fc4?style=for-the-badge&labelColor=12306a" alt="Core Consulting"></a>
+<a href="https://www.linkedin.com/in/nicolas-brill"><img src="https://img.shields.io/badge/LinkedIn-nicolas--brill-2a6fc4?style=for-the-badge&labelColor=12306a" alt="LinkedIn"></a>
 
 </div>
 
