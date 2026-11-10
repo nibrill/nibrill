@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 Sobre mí
-Ingeniero Informático y dueño de **Core Consulting**. Diseño y construyo **sistemas de gestión, aplicaciones web, móviles y de escritorio** a medida, con foco en **APIs, automatización de procesos**, bases de datos sólidas, código mantenible y **uso experto de IA** para acelerar el desarrollo.
+Ingeniero Informático, dueño de **Core Consulting** y creador de **Summit**, app de trekking. Diseño y construyo **sistemas de gestión, aplicaciones web, móviles y de escritorio** a medida, con foco en **APIs, automatización de procesos**, bases de datos sólidas, código mantenible y **uso experto de IA** para acelerar el desarrollo.
 
 - 🏢 Fundador de [Core Consulting](https://coreconsulting.cl)
 - ⛰️ Creador de **Summit**, app de trekking
@@ -97,13 +97,15 @@ Uso la inteligencia artificial a diario como herramienta de ingeniería para ent
 **Además:** APIs REST · integración de APIs · webhooks · automatización de procesos · modelamiento de datos · roles y permisos · seguridad web · tests automáticos · CI/CD · apps offline-first
 
 ### 🖼️ Un vistazo
-<table>
-  <tr>
-    <td width="33%" align="center"><a href="https://github.com/nibrill/sistema-punto-de-venta-open-source-code"><img src="https://raw.githubusercontent.com/nibrill/sistema-punto-de-venta-open-source-code/main/docs/img/02-dashboard.png" alt="Sistema Punto de Venta Open Source Code"></a><br><b>Sistema Punto de Venta</b><br><sub>POS de escritorio</sub></td>
-    <td width="33%" align="center"><a href="https://github.com/nibrill/garage360"><img src="https://raw.githubusercontent.com/nibrill/garage360/main/docs/screenshots/03-talleres.png" alt="Garage360"></a><br><b>Garage360</b><br><sub>Reservas para talleres</sub></td>
-    <td width="33%" align="center"><a href="https://github.com/nibrill/vestra"><img src="https://raw.githubusercontent.com/nibrill/vestra/main/docs/screenshots/inicio.png" alt="VESTRA"></a><br><b>VESTRA</b><br><sub>Tienda online</sub></td>
-  </tr>
-</table>
+
+**[Garage360](https://github.com/nibrill/garage360)** — reservas y gestión para talleres mecánicos
+<table><tr><td width="33%"><a href="https://github.com/nibrill/garage360"><img src="https://raw.githubusercontent.com/nibrill/garage360/main/docs/screenshots/05-talleres.png" alt="Directorio de talleres"></a><br><sub>Directorio de talleres</sub></td><td width="33%"><a href="https://github.com/nibrill/garage360"><img src="https://raw.githubusercontent.com/nibrill/garage360/main/docs/screenshots/06-mapa.png" alt="Mapa geolocalizado"></a><br><sub>Mapa geolocalizado</sub></td><td width="33%"><a href="https://github.com/nibrill/garage360"><img src="https://raw.githubusercontent.com/nibrill/garage360/main/docs/screenshots/07-reservar-hora.png" alt="Reserva de hora"></a><br><sub>Reserva de hora</sub></td></tr></table>
+
+**[VESTRA](https://github.com/nibrill/vestra)** — tienda online full-stack
+<table><tr><td width="33%"><a href="https://github.com/nibrill/vestra"><img src="https://raw.githubusercontent.com/nibrill/vestra/main/docs/screenshots/inicio.png" alt="Inicio"></a><br><sub>Inicio</sub></td><td width="33%"><a href="https://github.com/nibrill/vestra"><img src="https://raw.githubusercontent.com/nibrill/vestra/main/docs/screenshots/categoria.png" alt="Catálogo"></a><br><sub>Catálogo</sub></td><td width="33%"><a href="https://github.com/nibrill/vestra"><img src="https://raw.githubusercontent.com/nibrill/vestra/main/docs/screenshots/producto.png" alt="Producto"></a><br><sub>Producto</sub></td></tr></table>
+
+**[Sistema Punto de Venta](https://github.com/nibrill/sistema-punto-de-venta-open-source-code)** — POS de escritorio para pymes
+<table><tr><td width="33%"><a href="https://github.com/nibrill/sistema-punto-de-venta-open-source-code"><img src="https://raw.githubusercontent.com/nibrill/sistema-punto-de-venta-open-source-code/main/docs/img/02-dashboard.png" alt="Panel principal"></a><br><sub>Panel principal</sub></td><td width="33%"><a href="https://github.com/nibrill/sistema-punto-de-venta-open-source-code"><img src="https://raw.githubusercontent.com/nibrill/sistema-punto-de-venta-open-source-code/main/docs/img/03-ventas.png" alt="Ventas"></a><br><sub>Ventas</sub></td><td width="33%"><a href="https://github.com/nibrill/sistema-punto-de-venta-open-source-code"><img src="https://raw.githubusercontent.com/nibrill/sistema-punto-de-venta-open-source-code/main/docs/img/06-caja.png" alt="Caja"></a><br><sub>Caja</sub></td></tr></table>
 
 ### 🚀 Proyectos públicos
 Productos propios y sistemas open source (MIT):
