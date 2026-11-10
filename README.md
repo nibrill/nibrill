@@ -62,9 +62,15 @@ Ingeniero Informático y dueño de **Core Consulting**. Diseño y construyo **si
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 🚀 Proyectos públicos
-| Proyecto | Descripción | Stack |
+Sistemas que he desarrollado y dejo abiertos (MIT):
+
+| Proyecto | Qué es | Stack |
 |---|---|---|
-| [**CorePOS Community**](https://github.com/nibrill/corepos-community) | Punto de venta de escritorio para pymes. Licencia MIT | `Python` `PySide6` `MySQL` |
+| [**CorePOS Community**](https://github.com/nibrill/corepos-community) | Punto de venta de escritorio para pymes en Chile | `Python` `PySide6` `MySQL` `FastAPI` |
+| [**Garage360**](https://github.com/nibrill/garage360) | Reservas y gestión para talleres mecánicos, con mapa y paneles por rol | `Django` `MySQL` `Bootstrap` `Docker` |
+| [**Terreno**](https://github.com/nibrill/Terreno) · [demo](https://nibrill.github.io/Terreno/) | App offline para toma de datos en faenas mineras | `TypeScript` `PWA` |
+| [**ArenaDB**](https://github.com/nibrill/arenadb-oracle-plsql) · [demo](https://nibrill.github.io/arenadb-oracle-plsql/) | Torneos de eSports en Oracle con package y triggers | `Oracle` `PL/SQL` |
+| [**VESTRA**](https://github.com/nibrill/vestra) | Tienda de ropa online full-stack | `Flask` `Python` `MySQL` |
 
 <div align="center">
 
