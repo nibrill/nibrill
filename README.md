@@ -13,12 +13,25 @@
 ---
 
 ### 👨‍💻 Sobre mí
-Ingeniero Informático y dueño de **Core Consulting**. Diseño y construyo **sistemas de gestión, aplicaciones web, móviles y de escritorio** a medida, con foco en bases de datos sólidas y código mantenible.
+Ingeniero Informático y dueño de **Core Consulting**. Diseño y construyo **sistemas de gestión, aplicaciones web, móviles y de escritorio** a medida, con foco en bases de datos sólidas, código mantenible y **uso experto de IA** para acelerar el desarrollo.
 
 - 🏢 Fundador de [Core Consulting](https://coreconsulting.cl)
 - 🧱 Trabajo con Python, Django, Laravel, Angular, Ionic y bases de datos relacionales
 - 📍 Chile
 - 🔓 Parte de lo que desarrollo lo dejo público para que cualquiera lo use
+
+### 🤖 IA como punto fuerte
+Uso la inteligencia artificial a diario como herramienta de ingeniería para entregar más rápido y con mejor calidad:
+- **Desarrollo asistido por IA** con agentes de código (Claude Code), siempre con revisión humana
+- **Prompt engineering** para resultados precisos y repetibles
+- **Integración de LLMs y APIs de IA** en sistemas y flujos de trabajo
+- **Automatización** de reportes, documentación, análisis y pruebas
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2a6fc4?style=flat-square)
 
 ### 🛠️ Tecnologías
 
