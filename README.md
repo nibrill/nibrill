@@ -3,9 +3,9 @@
 **Ingeniero Informático** · Fundador de [Core Consulting](https://coreconsulting.cl) · Chile 🇨🇱
 Desarrollo software a medida: sistemas de gestión, aplicaciones web, móviles y de escritorio.
 
-## 🚀 Proyecto destacado
-**[CorePOS](https://github.com/nibrill/corepos-community)** — punto de venta para pymes con ventas, caja, inventario, compras, reportes, roles de usuario y API para escáner móvil.
-Edición comunitaria open source (MIT) + edición comercial con facturación electrónica.
+## 🚀 Proyectos públicos
+Entre los sistemas que he desarrollado, algunos los dejo abiertos para que la gente los use:
+- **[CorePOS Community](https://github.com/nibrill/corepos-community)** — punto de venta de escritorio para pymes (Python, PySide6, MySQL). MIT.
 
 ## 🛠️ Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
