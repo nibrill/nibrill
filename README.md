@@ -61,6 +61,15 @@ Ingeniero Informático y dueño de **Core Consulting**. Diseño y construyo **si
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+### 🖼️ Un vistazo
+<table>
+  <tr>
+    <td width="33%" align="center"><a href="https://github.com/nibrill/corepos-community"><img src="https://raw.githubusercontent.com/nibrill/corepos-community/main/docs/img/02-dashboard.png" alt="CorePOS Community"></a><br><b>CorePOS Community</b><br><sub>POS de escritorio</sub></td>
+    <td width="33%" align="center"><a href="https://github.com/nibrill/garage360"><img src="https://raw.githubusercontent.com/nibrill/garage360/main/docs/screenshots/03-talleres.png" alt="Garage360"></a><br><b>Garage360</b><br><sub>Reservas para talleres</sub></td>
+    <td width="33%" align="center"><a href="https://github.com/nibrill/vestra"><img src="https://raw.githubusercontent.com/nibrill/vestra/main/docs/screenshots/inicio.png" alt="VESTRA"></a><br><b>VESTRA</b><br><sub>Tienda online</sub></td>
+  </tr>
+</table>
+
 ### 🚀 Proyectos públicos
 Sistemas que he desarrollado y dejo abiertos (MIT):
 
